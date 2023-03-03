@@ -9,3 +9,6 @@ The data set for Population data can be found here: [Population data](https://dr
 
 # Interim Report 
 The Interim report can be found [here](https://drive.google.com/file/d/1MthN_SpF9OMaCF8LtxRFMxjs_7Lniure/view?usp=share_link).
+
+# Video Presentation
+The video presentation can be found [here](https://www.youtube.com/watch?v=Fq2dAlOC0Vs).
